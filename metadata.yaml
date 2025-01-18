@@ -1,0 +1,31 @@
+_repo: Konigin-Heimat_75128
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Greinz, Rudolf
+    alias: Greinz, Rudolf Heinrich
+    birthdate: 1866
+    deathdate: 1942
+    gutenberg_agent_id: '32180'
+    url: http://www.gutenberg.org/2009/agents/32180
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Rudolf_Greinz
+    - https://en.wikipedia.org/wiki/Rudolf_Greinz
+description: ''
+gutenberg_issued: '2025-01-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75128'
+language: de
+pgterms:marc905: 20210501075152greinz
+pgterms:marc906: '1921'
+pgterms:marc907: de
+production_note: Hans Theyer and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aLeipzig :$bL. Staackmann Verlag, $c1921.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Königin Heimat
+url: http://www.gutenberg.org/ebooks/75128
